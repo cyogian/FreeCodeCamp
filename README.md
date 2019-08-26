@@ -1,7 +1,7 @@
 # [FreeCodeCamp](https://www.freecodecamp.org/)
 My Solutions to Projects for Each Certification on FreeCodeCamp
 
-1. Responsive Web Design Projects
+1. **Responsive Web Design Projects**
     - [Build A Tribute Page](https://codepen.io/cyogian/full/GVNQZv)
     - [Build A Survey Form](https://codepen.io/cyogian/full/WVENKK)
     - [Build A Product Landing Page](https://codepen.io/cyogian/full/EqvBLz)
@@ -10,7 +10,7 @@ My Solutions to Projects for Each Certification on FreeCodeCamp
     ---
     [**Show Certification**](https://www.freecodecamp.org/certification/cyogian/responsive-web-design)
 
-2. JavaScript Algorithms and Data Structures Projects
+2. **JavaScript Algorithms and Data Structures Projects**
     - [Palindrome Checker](https://github.com/cyogian/FreeCodeCamp/blob/master/palindrome_checker.js)
     - [Caesar Cipher](https://github.com/cyogian/FreeCodeCamp/blob/master/Roman_Numeral_Converter.js)
     - [Roman Numeral Converter](https://github.com/cyogian/FreeCodeCamp/blob/master/Roman_Numeral_Converter.js)
