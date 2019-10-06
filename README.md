@@ -20,7 +20,7 @@ My Solutions to Projects for Each Certification on FreeCodeCamp.
 
 [**Show Certification**](https://www.freecodecamp.org/certification/cyogian/javascript-algorithms-and-data-structures)
 
-## **JavaScript Frontend Libraries**
+## **Frontend Libraries**
 - [Random Quote Machine](https://codepen.io/cyogian/full/mdbKPjK)
 - [Markdown Previewer](https://codepen.io/cyogian/full/ExYRGOz)
 - [Drum Machine](https://codepen.io/cyogian/full/ExYpQoa)
