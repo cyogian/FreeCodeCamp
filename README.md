@@ -3,11 +3,11 @@
 My Solutions to Projects for Each Certification on FreeCodeCamp.
 
 ## **Responsive Web Design Projects**
-- [Build A Tribute Page](https://codepen.io/cyogian/full/GVNQZv)
-- [Build A Survey Form](https://codepen.io/cyogian/full/WVENKK)
-- [Build A Product Landing Page](https://codepen.io/cyogian/full/EqvBLz)
-- [Build A Technical Documentation Page](https://codepen.io/cyogian/full/LwzOoV)
-- [Build A Personal Portfolio Webpage](https://codepen.io/cyogian/full/QeqXaM)
+- [Tribute Page](https://codepen.io/cyogian/full/GVNQZv)
+- [Survey Form](https://codepen.io/cyogian/full/WVENKK)
+- [Product Landing Page](https://codepen.io/cyogian/full/EqvBLz)
+- [Technical Documentation Page](https://codepen.io/cyogian/full/LwzOoV)
+- [Personal Portfolio Webpage](https://codepen.io/cyogian/full/QeqXaM)
     
 [**Show Certification**](https://www.freecodecamp.org/certification/cyogian/responsive-web-design)
 
@@ -19,3 +19,12 @@ My Solutions to Projects for Each Certification on FreeCodeCamp.
 - [Cash Register](https://github.com/cyogian/FreeCodeCamp/blob/master/CashRegister.js)
 
 [**Show Certification**](https://www.freecodecamp.org/certification/cyogian/javascript-algorithms-and-data-structures)
+
+## **JavaScript Frontend Libraries**
+- [Random Quote Machine](https://codepen.io/cyogian/full/mdbKPjK)
+- [Markdown Previewer](https://codepen.io/cyogian/full/ExYRGOz)
+- [Drum Machine](https://codepen.io/cyogian/full/ExYpQoa)
+- [Javascript Calculator](https://codepen.io/cyogian/full/xxKaKrx)
+- [Pomodoro Clock](https://codepen.io/cyogian/full/jONRvEa)
+
+[**Show Certification**](https://www.freecodecamp.org/certification/cyogian/front-end-libraries)
