@@ -37,3 +37,12 @@ My Solutions to Projects for Each Certification on FreeCodeCamp.
 - [Tree Map](https://codepen.io/cyogian/full/qBEeJXL)
 
 [**Show Certification**](https://www.freecodecamp.org/certification/cyogian/data-visualization)
+
+## **API's and Microservices**
+- [Timestamp Microservice](https://cyogian-fcc-timestamp.glitch.me/)
+- [Request Header Parser Microservice](https://cyogian-fcc-header-parser.glitch.me/)
+- [URL Shortener Microservice](https://cyogian-fcc-url-shortener.glitch.me/)
+- [Exercise Tracker Microservice](https://cyogian-fcc-exercise-tracker.glitch.me/)
+- [File Metadata Analyser Microservice](https://cyogian-fcc-fileanalyse.glitch.me/)
+
+[**Show Certification**](https://www.freecodecamp.org/certification/cyogian/apis-and-microservices)
