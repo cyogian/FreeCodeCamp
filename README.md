@@ -3,24 +3,27 @@
 My Solutions to Projects for Each Certification on FreeCodeCamp.
 
 ## **Responsive Web Design Projects**
+
 - [Tribute Page](https://codepen.io/cyogian/full/GVNQZv)
 - [Survey Form](https://codepen.io/cyogian/full/WVENKK)
 - [Product Landing Page](https://codepen.io/cyogian/full/EqvBLz)
 - [Technical Documentation Page](https://codepen.io/cyogian/full/LwzOoV)
 - [Personal Portfolio Webpage](https://codepen.io/cyogian/full/QeqXaM)
-    
+
 [**Show Certification**](https://www.freecodecamp.org/certification/cyogian/responsive-web-design)
 
 ## **JavaScript Algorithms and Data Structures Projects**
-- [Palindrome Checker](https://github.com/cyogian/FreeCodeCamp/blob/master/palindrome_checker.js)
-- [Caesar Cipher](https://github.com/cyogian/FreeCodeCamp/blob/master/Roman_Numeral_Converter.js)
-- [Roman Numeral Converter](https://github.com/cyogian/FreeCodeCamp/blob/master/Roman_Numeral_Converter.js)
-- [US Telephone Number Validator](https://github.com/cyogian/FreeCodeCamp/blob/master/US_Telephone_Number_Validator.js)
-- [Cash Register](https://github.com/cyogian/FreeCodeCamp/blob/master/CashRegister.js)
+
+- [Palindrome Checker](https://github.com/cyogian/FreeCodeCamp/tree/master/JSDSA/PalindromeChecker)
+- [Caesar Cipher](https://github.com/cyogian/FreeCodeCamp/tree/master/JSDSA/CaesarCipher)
+- [Roman Numeral Converter](https://github.com/cyogian/FreeCodeCamp/tree/master/JSDSA/RomanNumeralCalculator)
+- [US Telephone Number Validator](https://github.com/cyogian/FreeCodeCamp/tree/master/JSDSA/USTelephoneNumberValidator)
+- [Cash Register](https://github.com/cyogian/FreeCodeCamp/tree/master/JSDSA/CashRegister)
 
 [**Show Certification**](https://www.freecodecamp.org/certification/cyogian/javascript-algorithms-and-data-structures)
 
 ## **Frontend Libraries**
+
 - [Random Quote Machine](https://codepen.io/cyogian/full/mdbKPjK)
 - [Markdown Previewer](https://codepen.io/cyogian/full/ExYRGOz)
 - [Drum Machine](https://codepen.io/cyogian/full/ExYpQoa)
@@ -30,6 +33,7 @@ My Solutions to Projects for Each Certification on FreeCodeCamp.
 [**Show Certification**](https://www.freecodecamp.org/certification/cyogian/front-end-libraries)
 
 ## **Data Visualization**
+
 - [Bar Chart](https://codepen.io/cyogian/full/bGNRzYq)
 - [Scatter Plot](https://codepen.io/cyogian/full/bGNreEa)
 - [Heat Map](https://codepen.io/cyogian/full/XWJvRJV)
@@ -39,6 +43,7 @@ My Solutions to Projects for Each Certification on FreeCodeCamp.
 [**Show Certification**](https://www.freecodecamp.org/certification/cyogian/data-visualization)
 
 ## **API's and Microservices**
+
 - [Timestamp Microservice](https://cyogian-fcc-timestamp.glitch.me/)
 - [Request Header Parser Microservice](https://cyogian-fcc-header-parser.glitch.me/)
 - [URL Shortener Microservice](https://cyogian-fcc-url-shortener.glitch.me/)
