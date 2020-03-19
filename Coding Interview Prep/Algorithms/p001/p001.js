@@ -1,3 +1,4 @@
+// Find the Symmetric Difference
 function bisym(A, B) {
   const res = [];
   A.map(e => {
