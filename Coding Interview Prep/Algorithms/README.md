@@ -7,5 +7,6 @@
 - p004 : Pairwise
 - p005 : Implement Bubble Sort
 - p006 : Implement Selection Sort
+- p007 : Implement Insertion Sort
 
 ---

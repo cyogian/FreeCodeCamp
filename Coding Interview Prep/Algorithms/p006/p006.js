@@ -1,3 +1,5 @@
+// Selection Sort
+
 function swap(i, j, arr) {
   let temp = arr[i];
   arr[i] = arr[j];

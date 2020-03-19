@@ -1,16 +1,17 @@
-// Bubble Sort
+// Insertion Sort
+
 function swap(i, j, arr) {
   let temp = arr[i];
   arr[i] = arr[j];
   arr[j] = temp;
 }
 
-function bubbleSort(array) {
+function insertionSort(array) {
   // change code below this line
-  for (let i = 0; i < array.length; i++) {
-    for (let j = 0; j < array.length - i - 1; j++) {
-      if (array[j] > array[j + 1]) {
-        swap(j, j + 1, array);
+  for (let i = 1; i < array.length; i++) {
+    for (let j = i; j >= 0; j--) {
+      if (array[j] < array[j - 1]) {
+        swap(j, j - 1, array);
       }
     }
   }
@@ -19,7 +20,7 @@ function bubbleSort(array) {
   // change code above this line
 }
 
-bubbleSort([
+insertionSort([
   1,
   4,
   2,
