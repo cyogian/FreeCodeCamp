@@ -5,6 +5,7 @@
 - p002 : Inventory Update
 - p003 : No Repeats Please
 - p004 : Pairwise
-- poo5 : Implement Bubble Sort
+- p005 : Implement Bubble Sort
+- p006 : Implement Selection Sort
 
 ---
