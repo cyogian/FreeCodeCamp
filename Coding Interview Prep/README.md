@@ -1,4 +1,4 @@
 # Coding Interview Prep 
-(Thousands of hours of challenges)
+Thousands of hours of challenges
 
 ---
