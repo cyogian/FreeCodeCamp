@@ -37,7 +37,7 @@ My Solutions to Projects for Each Certification on FreeCodeCamp and other sectio
 - [Bar Chart](https://codepen.io/cyogian/full/bGNRzYq)
 - [Scatter Plot](https://codepen.io/cyogian/full/bGNreEa)
 - [Heat Map](https://codepen.io/cyogian/full/XWJvRJV)
-- [Choropleth Map](https://codepen.io/cyogian/full/xxboydM)
+- [Choropleth Map](https://codepen.io/cyogian/full/xxboydM) 
 - [Tree Map](https://codepen.io/cyogian/full/qBEeJXL)
 
 [**Show Certification**](https://www.freecodecamp.org/certification/cyogian/data-visualization)
