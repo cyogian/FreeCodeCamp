@@ -1,5 +1,5 @@
 # [FreeCodeCamp](https://www.freecodecamp.org/)
-
+ 
 My Solutions to Projects for Each Certification on FreeCodeCamp and other sections in the fCC Web Development Curriculum. 
 
 ## **Responsive Web Design Projects**
