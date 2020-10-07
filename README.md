@@ -54,7 +54,7 @@ My Solutions to Projects for Each Certification on FreeCodeCamp and other sectio
 
 ## **Scientific Computing With Python**
 
-- [Arithematic Formatter](https://repl.it/@cyogian/cyogian-ArithmeticFormatter)
+- [Arithematic Formatter](https://repl.it/@cyogian/fcc-arithmetic-formatter)
 - [Time Calculator](https://repl.it/@cyogian/fcc-time-calculator)
 - [Budget App](https://repl.it/@cyogian/fcc-budget-app)
 - [Polygon Area Calculator](https://repl.it/@cyogian/fcc-shape-calculator)
