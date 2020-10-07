@@ -51,3 +51,13 @@ My Solutions to Projects for Each Certification on FreeCodeCamp and other sectio
 - [File Metadata Analyser Microservice](https://cyogian-fcc-fileanalyse.glitch.me/)
 
 [**Show Certification**](https://www.freecodecamp.org/certification/cyogian/apis-and-microservices)
+
+## **Scientific Computing With Python**
+
+- [Arithematic Formatter](https://repl.it/@cyogian/cyogian-ArithmeticFormatter)
+- [Time Calculator](https://repl.it/@cyogian/fcc-time-calculator)
+- [Budget App](https://repl.it/@cyogian/fcc-budget-app)
+- [Polygon Area Calculator](https://repl.it/@cyogian/fcc-shape-calculator)
+- [Probability Calculator](https://repl.it/@cyogian/fcc-probablity-calculator)
+
+[**Show Certification**](https://www.freecodecamp.org/certification/cyogian/scientific-computing-with-python-v7)
