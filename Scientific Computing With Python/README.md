@@ -17,4 +17,4 @@ In this section you will develop the following projects:
 Have fun!
 
 ---
-**Note : -** You can run the tests by running "main.py" file from any of the projects.
+**Note : -** You can run the tests by running "main.py" file from any of the projects or go to my [freeCodeCamp Repository](https://github.com/cyogian/freeCodeCamp) and visit the links under "Scientific Computing With Python Certification" section to test run the <a href="https://repl.it"><img src="https://repl.it/public/images/light-logo.svg" width=80/></a> projects.
