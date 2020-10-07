@@ -15,3 +15,6 @@ In this section you will develop the following projects:
 - Probability Calculator  
 
 Have fun!
+
+---
+**Note : -** You can run the tests by running "main.py" file from any of the projects.
