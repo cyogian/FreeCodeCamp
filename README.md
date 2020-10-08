@@ -2,7 +2,7 @@
 
 My Solutions to Projects for Each Certification on FreeCodeCamp and other sections in the fCC Web Development Curriculum. 
 
-## **Responsive Web Design Projects**
+## **Responsive Web Design**
 
 - [Tribute Page](https://codepen.io/cyogian/full/GVNQZv)
 - [Survey Form](https://codepen.io/cyogian/full/WVENKK)
@@ -12,7 +12,7 @@ My Solutions to Projects for Each Certification on FreeCodeCamp and other sectio
 
 [**Show Certification**](https://www.freecodecamp.org/certification/cyogian/responsive-web-design)
 
-## **JavaScript Algorithms and Data Structures Projects**
+## **JavaScript Algorithms and Data Structures**
 
 - [Palindrome Checker](https://github.com/cyogian/FreeCodeCamp/tree/master/JSDSA/PalindromeChecker)
 - [Caesar Cipher](https://github.com/cyogian/FreeCodeCamp/tree/master/JSDSA/CaesarCipher)
